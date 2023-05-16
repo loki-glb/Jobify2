@@ -1,4 +1,5 @@
-# Jobify2
+# Jobify2 
+### Step by Step Instructions on the Code committed so far
 
 #### Run The App Locally
 
